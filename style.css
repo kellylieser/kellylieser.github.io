@@ -4,6 +4,5 @@ color: black;
   background-color: rgb(235,247,255);
 }
 .header {
-  font-size: 60px;
-  justify-content: center;
+    justify-content: center;
 }
