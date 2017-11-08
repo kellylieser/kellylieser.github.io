@@ -9,3 +9,7 @@ color: black;
 .introduction {
   font face="mistral"
 }
+
+.headshot {
+  border: 5 px solid #FFF;
+}
