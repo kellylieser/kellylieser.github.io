@@ -3,6 +3,11 @@ body, html {
 color: black;
   background-color: rgb(235,247,255);
   }
+
+div {
+ border-radius=5px 
+}
+
 .header {
    
 }
